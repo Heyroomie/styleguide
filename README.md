@@ -6,8 +6,7 @@
 
 # Colours
 - **Primary (Main):** #00D1C1
-- **Primary:** #000D0C
-- **Primary:** #B6FFF9
+- **Primary:** #000D0C- **Primary:** #B6FFF9
 
 
 - **Secondary:** #FFFFFF
